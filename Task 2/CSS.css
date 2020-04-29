@@ -1,0 +1,45 @@
+#first{
+    margin-left:45%;
+    margin-top:10%
+}
+body{
+    background-color: rgb(56, 55, 55)
+}
+#sec{
+    color: white;
+    width:530px;
+    margin-top:75px; 
+}
+#options{
+    display: flex;
+    flex-grow: 1;
+    margin-top: 20px;
+}
+#one{
+    padding: 10px;
+}
+#two{
+    padding: 10px;
+}
+#three{
+    padding: 10px;
+}
+#four{
+    padding: 10px;
+}
+#five{
+    padding: 10px;
+}
+#six{
+    padding: 10px;
+}
+#seven
+{
+    padding: 10px;
+}
+#third{
+    color: white;
+    width: 580px;
+    margin-left: 54%;
+    margin-top: -100px;
+}
